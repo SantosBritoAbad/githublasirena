@@ -1,0 +1,196 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat",Arial,sans-serif;
+    font-size: .875em;
+
+}
+
+
+.menu:hover{
+    color:skyblue !important;
+    
+    }
+
+
+    .m{
+            color:#0b67b2;
+            
+   }
+    .menu{
+        color:black;
+        
+        }
+
+.header{
+    
+    height: 110px;
+    margin-left: 10px;
+}
+input{
+    border-radius: 5px;
+    border:none;
+    padding: 7px;
+    margin: 5px;
+}
+
+button{
+    border-radius: 10px;
+    border:none;
+
+}
+
+.im{
+    margin-right: 20px; 
+}
+li{
+    display: block;
+    float: left;
+    padding:3px 5px;
+    margin-top: 5px;
+    font-family: "Montserrat",Arial,sans-serif;
+
+}
+
+.der{
+    float: right;
+    padding: 15px;
+    margin: 20px;
+
+}
+i{
+
+    padding: 10px;
+  
+}
+
+.menuHorizontal li {
+    float: left;
+    padding: 3px;
+    margin-left:25px;
+    list-style-type:none;
+    margin-top: 12px;
+    font-family: "Montserrat",Arial,sans-serif;
+    font-size: .875em;
+    color: whitesmoke;
+
+}
+li i {
+
+    font-family: "Montserrat",Arial,sans-serif;
+}
+
+ul .im{
+
+ margin: 7px;
+ padding: 5px;
+ margin-top: 1px;
+
+    
+
+}
+
+.what{
+    color: #33c1e9;
+    
+    }
+
+.what:hover{
+
+    color: whitesmoke;
+}
+
+.de{
+    float: right;
+    padding: 2px;
+    margin: 10px;
+}
+
+
+.card-img-top {
+    height: 15rem;
+    object-fit: cover;
+}
+
+.tm{
+
+    height: 10px;
+    width: 10px;
+}
+
+.pk{
+    background-color:#ffe64c;
+}
+
+.sc{
+    background-color:#00b2e3;
+}
+
+.l {
+    height: 15rem;
+    object-fit: cover;
+}
+
+.lit{
+display: block;
+  padding: 1px;
+  text-align:center;
+  color: white;
+  font-size: 15px;
+  align-content: start;
+}
+
+.scl{
+
+    color: white;
+}
+
+.texto{
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.Menu {
+    font-family: Arial;
+  }
+  
+  .Menu p {
+    margin:0px;
+    padding:0px;
+  }
+  
+  .Menu a {
+    display: block;
+      width: 160px;
+      text-align:left;
+    text-decoration: none;
+    color: black;
+    font-family: "Montserrat",sans-serif;
+  
+  }
+  
+ 
+  .Menu a:hover {
+    background-color:orange;
+  }
+
+.carr{
+    float: right;
+    margin-right: 20px;
+}
+.segl{
+
+    display: block;
+      width: 150px;
+      text-align:left;
+    text-decoration: none;
+    color: black;
+    font-family: "Montserrat",sans-serif;
+    font-size: .70em;
+
+}
+
+
+
+ 
